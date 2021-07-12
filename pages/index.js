@@ -1,5 +1,4 @@
-import Car from "../components/Car";
-import Level1 from "../components/Car";
+import Link from "next/link"
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
@@ -40,7 +39,7 @@ export default function Home() {
             </li>
           </ul>
         </div>
-        <Car />
+        <Link href="/example">Example</Link>
       </main>
     </div>
   );
