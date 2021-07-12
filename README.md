@@ -3,6 +3,7 @@
 **with Redux Toolkit and Redux Thunk**
 
 **NPM install**
+
 **NPM run dev**
 
 The basic idea behind this app is to simulate a somewhat complex component tree structure and how we would handle the state in them
