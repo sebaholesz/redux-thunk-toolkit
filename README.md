@@ -3,9 +3,12 @@
 **with Redux Toolkit and Redux Thunk**
 
 **NPM install**
+
 **NPM run dev**
 
 The basic idea behind this app is to simulate a somewhat complex component tree structure and how we would handle the state in them
+
+![image](https://user-images.githubusercontent.com/55181354/125398697-ee327c00-e3af-11eb-9e93-0b96d566edce.png)
 
 There are different components creating a CAR, which can
 
