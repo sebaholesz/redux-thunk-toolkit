@@ -1,4 +1,5 @@
-import Link from "next/link"
+import Link from "next/link";
+import Image from "next/image";
 import styles from "../styles/Home.module.css";
 
 export default function Home() {
@@ -39,6 +40,7 @@ export default function Home() {
             </li>
           </ul>
         </div>
+        <Image src="/component-tree.jpg" alt="" width="358px" height="354px" />
         <Link href="/example">Example</Link>
       </main>
     </div>
